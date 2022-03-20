@@ -1,0 +1,40 @@
+
+Вызвана функция: flatten_generator
+Время вызова функции: 2022-03-20 14:31:59.275865
+Аргументы функции: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}
+Результат функции: <generator object flatten_generator at 0x000000ED0E229A10>
+
+Вызвана функция: flatten_generator
+Время вызова функции: 2022-03-20 14:31:59.275865
+Аргументы функции: (['a', 'b', 'c'],), {}
+Результат функции: <generator object flatten_generator at 0x000000ED0E682030>
+
+Вызвана функция: flatten_generator
+Время вызова функции: 2022-03-20 14:31:59.275865
+Аргументы функции: (['d', 'e', 'f', 'h', False],), {}
+Результат функции: <generator object flatten_generator at 0x000000ED0E682030>
+
+Вызвана функция: flatten_generator
+Время вызова функции: 2022-03-20 14:31:59.276866
+Аргументы функции: ([1, 2, None],), {}
+Результат функции: <generator object flatten_generator at 0x000000ED0E682030>
+
+Вызвана функция: flatten_generator
+Время вызова функции: 2022-03-20 14:31:59.276866
+Аргументы функции: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}
+Результат функции: <generator object flatten_generator at 0x000000ED0E229A10>
+
+Вызвана функция: flatten_generator
+Время вызова функции: 2022-03-20 14:31:59.276866
+Аргументы функции: (['a', 'b', 'c'],), {}
+Результат функции: <generator object flatten_generator at 0x000000ED0E682030>
+
+Вызвана функция: flatten_generator
+Время вызова функции: 2022-03-20 14:31:59.276866
+Аргументы функции: (['d', 'e', 'f', 'h', False],), {}
+Результат функции: <generator object flatten_generator at 0x000000ED0E682030>
+
+Вызвана функция: flatten_generator
+Время вызова функции: 2022-03-20 14:31:59.276866
+Аргументы функции: ([1, 2, None],), {}
+Результат функции: <generator object flatten_generator at 0x000000ED0E682030>
